@@ -1,0 +1,9 @@
+Websites:
+http://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-ggplot2
+http://www.inside-r.org/node/57517
+http://www.statmethods.net/
+https://rstudio.github.io/dygraphs/r-markdown.html
+
+
+Courses:
+Udacity – Intro to machine learning
